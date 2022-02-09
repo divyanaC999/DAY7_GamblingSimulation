@@ -1,7 +1,9 @@
 package com.gamblingsimulator;
 
 public class GamblingSimulUC2 {
+	
       public static void main(String[] args) {
+ 
     	  int stake = 100;
     	  int bet = 1;
     	  int TRIAL = (int)Math.floor(Math.random()*2);
